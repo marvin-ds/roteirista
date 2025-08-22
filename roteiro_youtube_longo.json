@@ -1,0 +1,96 @@
+{
+  "roteiro": {
+    "formato": "YouTube Longo",
+    "canal": "YouTube",
+    "persona": "Família",
+    "pilar": "Dívidas",
+    "tema": "Guia completo para sair das dívidas em 12 meses",
+    "kpi_principal": "Retenção",
+    "cta_final": "\"Baixe já nossa planilha e organize suas finanças de maneira simples e eficiente. Transforme seu futuro financeiro agora!\"",
+    "diretrizes_execucao": {
+      "aspect_ratio": "16:9",
+      "duracao_alvo_segundos": 600,
+      "tom_de_voz": [
+        "didático",
+        "empático",
+        "confiável",
+        "inspirador"
+      ],
+      "observacoes": "dor: endividamento crescente desejo: liberdade financeira"
+    },
+    "segmentos": [
+      {
+        "nome": "Hook",
+        "inicio_s": 0,
+        "fim_s": 30,
+        "narracao": "O erro #2 é o mais comum... Se você está lutando com guia completo para sair das dívidas em 12 meses, este vídeo vai mudar sua vida financeira. Vou te mostrar um método que já ajudou milhares de pessoas.",
+        "texto_na_tela": "MÉTODO COMPROVADO",
+        "visual_sugestoes": [
+          "apresentação pessoal",
+          "preview dos resultados"
+        ],
+        "efeitos_corte": [
+          "cortes dinâmicos"
+        ],
+        "musica_sugestao": {
+          "mood": "inspirador",
+          "bpm": "90-100",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "intro musical"
+        ]
+      },
+      {
+        "nome": "Contexto",
+        "inicio_s": 30,
+        "fim_s": 120,
+        "narracao": "Antes de mais nada, quero que você saiba que não está sozinho nessa. A maioria das pessoas nunca aprendeu a lidar com dinheiro na escola.",
+        "texto_na_tela": "VOCÊ NÃO ESTÁ SOZINHO",
+        "visual_sugestoes": [
+          "estatísticas brasileiras",
+          "gráficos de endividamento"
+        ],
+        "efeitos_corte": [
+          "transições suaves"
+        ],
+        "musica_sugestao": {
+          "mood": "empático",
+          "bpm": "80-90",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "transições sutis"
+        ]
+      }
+    ],
+    "capitulos_timestamps": [
+      "00:00 - Introdução",
+      "00:30 - Por que isso acontece",
+      "02:00 - Método passo a passo",
+      "07:00 - Exemplo prático",
+      "09:00 - Erros comuns",
+      "10:30 - Próximos passos"
+    ],
+    "meta_publicacao": {
+      "legenda": "🎯 Guia completo para sair das dívidas em 12 meses\n\nNeste vídeo completo, você vai aprender:\n• Como organizar suas finanças\n• Método passo a passo\n• Exemplo prático\n• Erros que você deve evitar\n\n\"Baixe já nossa planilha e organize suas finanças de maneira simples e eficiente. Transforme seu futuro financeiro agora!\"\n\n💬 Deixe seu comentário: qual sua maior dificuldade financeira?",
+      "hashtags": [
+        "#educacaofinanceira",
+        "#orcamento",
+        "#planejamentofinanceiro"
+      ],
+      "thumb_titulo": "Como Organizar Suas Finanças"
+    },
+    "assets_sugeridos": [
+      "Slides explicativos simples",
+      "Planilha de exemplo (sem dados reais)",
+      "Gráficos de progresso",
+      "B-roll de situações cotidianas"
+    ]
+  },
+  "atualizacoes_planilha": {
+    "status": "Em roteiro",
+    "roteirizado_em": "2025-08-21",
+    "links_assets": ""
+  }
+}

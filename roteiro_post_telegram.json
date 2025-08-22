@@ -1,0 +1,52 @@
+{
+  "roteiro": {
+    "formato": "Post Telegram",
+    "canal": "Telegram",
+    "persona": "Empreendedor",
+    "pilar": "Planejamento",
+    "tema": "Técnica dos 3 potes para organizar dinheiro",
+    "kpi_principal": "Engajamento",
+    "cta_final": "Entre na comunidade gratuita do Telegram",
+    "diretrizes_execucao": {
+      "aspect_ratio": "N/A",
+      "duracao_alvo_segundos": 0,
+      "tom_de_voz": [
+        "didático",
+        "prático",
+        "acolhedor"
+      ],
+      "observacoes": "dor: desorganização financeira desejo: controle total"
+    },
+    "post_texto": "💰 DICA DO DIA: Técnica dos 3 potes para organizar dinheiro\n\nHoje vou te ensinar uma técnica simples que pode economizar até R$ 200 por mês no seu orçamento.\n\n🎯 A TÉCNICA DOS 3 POTES:\n1️⃣ Pote ESSENCIAL (50% da renda)\n2️⃣ Pote DIVERSÃO (30% da renda)\n3️⃣ Pote FUTURO (20% da renda)\n\n✅ Comece hoje mesmo separando seu dinheiro assim!\n\n👥 Quer mais dicas como essa? Entre na nossa comunidade gratuita!",
+    "enquete": {
+      "pergunta": "Qual sua maior dificuldade com orçamento?",
+      "opcoes": [
+        "Controlar gastos",
+        "Poupar dinheiro",
+        "Organizar contas",
+        "Aumentar renda"
+      ]
+    },
+    "call_to_action": "Entre na comunidade e receba dicas diárias!",
+    "resumo_do_dia": "Lembre-se: pequenos ajustes no orçamento geram grandes resultados!",
+    "meta_publicacao": {
+      "legenda": "💰 DICA DO DIA: Técnica dos 3 potes para organizar dinheiro\n\nHoje vou te ensinar uma técnica simples que pode economizar até R$ 200 por mês no seu orçamento.\n\n🎯 A TÉCNICA DOS 3 POTES:\n1️⃣ Pote ESSENCIAL (50% da renda)\n2️⃣ Pote DIVERSÃO (30% da renda)\n3️⃣ Pote FUTURO (20% da renda)\n\n✅ Comece hoje mesmo separando seu dinheiro assim!\n\n👥 Quer mais dicas como essa? Entre na nossa comunidade gratuita!",
+      "hashtags": [
+        "#educacaofinanceira",
+        "#orcamento",
+        "#telegram"
+      ],
+      "thumb_titulo": "Técnica dos 3 Potes"
+    },
+    "assets_sugeridos": [
+      "Imagem simples com os 3 potes",
+      "Infográfico com percentuais",
+      "Sticker de dinheiro"
+    ]
+  },
+  "atualizacoes_planilha": {
+    "status": "Em roteiro",
+    "roteirizado_em": "2025-08-21",
+    "links_assets": ""
+  }
+}

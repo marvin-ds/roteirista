@@ -1,0 +1,76 @@
+{
+  "roteiro": {
+    "formato": "Stories/Status",
+    "canal": "Instagram",
+    "persona": "Jovem Adulto",
+    "pilar": "Orçamento",
+    "tema": "Regra 50-30-20 explicada em 3 cards",
+    "kpi_principal": "CTR",
+    "cta_final": "Entre na comunidade gratuita",
+    "diretrizes_execucao": {
+      "aspect_ratio": "9:16",
+      "duracao_alvo_segundos": 15,
+      "tom_de_voz": [
+        "prático",
+        "direto",
+        "moderno"
+      ],
+      "observacoes": "dor: não saber como dividir salário desejo: organização simples"
+    },
+    "segmentos": [
+      {
+        "nome": "Card 1",
+        "texto": "Você gasta mais do que ganha?",
+        "narracao": "Se você respondeu sim, este stories é para você!",
+        "visual_sugestoes": [
+          "pergunta destacada",
+          "emoji de dinheiro"
+        ],
+        "sticker_interativo": "enquete: Sim/Não",
+        "cta": "Responda a enquete"
+      },
+      {
+        "nome": "Card 2",
+        "texto": "REGRA 50-30-20",
+        "narracao": "50% essencial, 30% diversão, 20% futuro Link na bio para mais dicas!",
+        "visual_sugestoes": [
+          "gráfico simples",
+          "percentuais destacados"
+        ],
+        "sticker_interativo": "slider: Quanto você poupa?",
+        "cta": "Deslize para ver mais"
+      },
+      {
+        "nome": "Card 3",
+        "texto": "COMECE HOJE!",
+        "narracao": "Separe seu dinheiro em 3 categorias agora mesmo",
+        "visual_sugestoes": [
+          "call to action",
+          "seta apontando"
+        ],
+        "sticker_interativo": "pergunta: Qual sua meta de economia?",
+        "cta": "Entre na comunidade para mais dicas"
+      }
+    ],
+    "meta_publicacao": {
+      "legenda": "💰 Regra 50-30-20 explicada em 3 cards - Stories com dica rápida!",
+      "hashtags": [
+        "#stories",
+        "#educacaofinanceira",
+        "#dicasrapidas"
+      ],
+      "thumb_titulo": "Dica Rápida de Orçamento"
+    },
+    "assets_sugeridos": [
+      "Templates de stories modernos",
+      "Stickers interativos",
+      "Paleta de cores vibrante",
+      "Tipografia bold para mobile"
+    ]
+  },
+  "atualizacoes_planilha": {
+    "status": "Em roteiro",
+    "roteirizado_em": "2025-08-21",
+    "links_assets": ""
+  }
+}

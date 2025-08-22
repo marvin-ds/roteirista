@@ -1,0 +1,182 @@
+{
+  "roteiro": {
+    "formato": "Reel/Short",
+    "canal": "Instagram",
+    "persona": "Casal",
+    "pilar": "Orçamento",
+    "tema": "Como organizar o orçamento familiar sem brigas",
+    "kpi_principal": "CTR",
+    "cta_final": "\"Venha para a nossa Comunidade Telegram! Aqui você aprende a gerir suas finanças de maneira simples e prática, e ainda pode trocar experiências incríveis. Não perca tempo, junte-se a nós!\"",
+    "diretrizes_execucao": {
+      "aspect_ratio": "9:16",
+      "duracao_alvo_segundos": 32,
+      "tom_de_voz": [
+        "didático",
+        "empático",
+        "prático",
+        "confiável",
+        "moderno"
+      ],
+      "observacoes": "dor: brigas por dinheiro desejo: harmonia financeira"
+    },
+    "segmentos": [
+      {
+        "nome": "Hook",
+        "inicio_s": 0,
+        "fim_s": 2,
+        "narracao": "Você sabia que como organizar o orçamento familiar sem brigas? Vou te mostrar como resolver isso em 3 passos simples.",
+        "texto_na_tela": "3 PASSOS SIMPLES",
+        "visual_sugestoes": [
+          "tipografia cinética",
+          "ícone relacionado à dor financeira"
+        ],
+        "efeitos_corte": [
+          "corte seco",
+          "zoom leve"
+        ],
+        "musica_sugestao": {
+          "mood": "otimista",
+          "bpm": "100-110",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "whoosh suave"
+        ]
+      },
+      {
+        "nome": "Passo 1",
+        "inicio_s": 2,
+        "fim_s": 8,
+        "narracao": "Primeiro passo: anote todos os seus gastos por uma semana. Use o celular, um caderno, qualquer coisa.",
+        "texto_na_tela": "PASSO 1: ANOTE TUDO",
+        "visual_sugestoes": [
+          "ícone de anotação",
+          "mãos escrevendo",
+          "app de notas"
+        ],
+        "efeitos_corte": [
+          "transição suave"
+        ],
+        "musica_sugestao": {
+          "mood": "focado",
+          "bpm": "95-105",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "click suave"
+        ]
+      },
+      {
+        "nome": "Passo 2",
+        "inicio_s": 8,
+        "fim_s": 15,
+        "narracao": "Segundo passo: separe os gastos em categorias. Comida, transporte, lazer. Assim você vê onde o dinheiro vai.",
+        "texto_na_tela": "PASSO 2: CATEGORIZE",
+        "visual_sugestoes": [
+          "gráfico simples por categorias",
+          "ícones de categorias"
+        ],
+        "efeitos_corte": [
+          "slide lateral"
+        ],
+        "musica_sugestao": {
+          "mood": "organizativo",
+          "bpm": "100-110",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "whoosh"
+        ]
+      },
+      {
+        "nome": "Passo 3",
+        "inicio_s": 15,
+        "fim_s": 22,
+        "narracao": "Terceiro passo: defina um limite para cada categoria. Comece com 10% menos do que você gastou na semana. Link na bio para mais dicas!",
+        "texto_na_tela": "PASSO 3: DEFINA LIMITES",
+        "visual_sugestoes": [
+          "calculadora simples",
+          "gráfico com limites"
+        ],
+        "efeitos_corte": [
+          "zoom in"
+        ],
+        "musica_sugestao": {
+          "mood": "determinado",
+          "bpm": "105-115",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "ding suave"
+        ]
+      },
+      {
+        "nome": "Prova visual",
+        "inicio_s": 22,
+        "fim_s": 28,
+        "narracao": "Fazendo isso, você pode economizar até 200 reais por mês. É dinheiro que estava escapando sem você perceber.",
+        "texto_na_tela": "ECONOMIA: R$ 200/MÊS",
+        "visual_sugestoes": [
+          "números destacados",
+          "ícone de economia",
+          "mini planilha"
+        ],
+        "efeitos_corte": [
+          "destaque numérico"
+        ],
+        "musica_sugestao": {
+          "mood": "conquista",
+          "bpm": "110-120",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "chime de sucesso"
+        ]
+      },
+      {
+        "nome": "CTA final",
+        "inicio_s": 28,
+        "fim_s": 32,
+        "narracao": "\"Venha para a nossa Comunidade Telegram! Aqui você aprende a gerir suas finanças de maneira simples e prática, e ainda pode trocar experiências incríveis. Não perca tempo, junte-se a nós!\"",
+        "texto_na_tela": "LINK NA BIO",
+        "visual_sugestoes": [
+          "call to action visual",
+          "seta apontando"
+        ],
+        "efeitos_corte": [
+          "fade out"
+        ],
+        "musica_sugestao": {
+          "mood": "convidativo",
+          "bpm": "100-110",
+          "tipo": "biblioteca sem direitos"
+        },
+        "sfx_sugestao": [
+          "whoosh final"
+        ]
+      }
+    ],
+    "meta_publicacao": {
+      "legenda": "💰 Como organizar o orçamento familiar sem brigas\n\nSiga estes 3 passos simples e comece a economizar hoje mesmo!\n\n\"Venha para a nossa Comunidade Telegram! Aqui você aprende a gerir suas finanças de maneira simples e prática, e ainda pode trocar experiências incríveis. Não perca tempo, junte-se a nós!\"\n\n❓ Qual é a sua maior dificuldade com o orçamento?",
+      "hashtags": [
+        "#educacaofinanceira",
+        "#orcamento",
+        "#economia",
+        "#dinheiro",
+        "#financas"
+      ],
+      "thumb_titulo": "3 Passos para Economizar"
+    },
+    "assets_sugeridos": [
+      "Ícones de categorias financeiras (comida, transporte, lazer)",
+      "Gráficos simples de orçamento",
+      "Tipografia cinética para números",
+      "Paleta de cores: azul confiança + verde economia"
+    ]
+  },
+  "atualizacoes_planilha": {
+    "status": "Em roteiro",
+    "roteirizado_em": "2025-08-21",
+    "links_assets": ""
+  }
+}

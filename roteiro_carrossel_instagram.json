@@ -1,0 +1,64 @@
+{
+  "roteiro": {
+    "formato": "Carrossel",
+    "canal": "Instagram",
+    "persona": "Jovem Adulto",
+    "pilar": "Investimentos",
+    "tema": "5 erros que impedem você de investir",
+    "kpi_principal": "Salvamentos",
+    "cta_final": "\"Venha aprender a gerir melhor o seu dinheiro! Junte-se ao nosso curso gratuito e transforme sua vida financeira agora mesmo!\"",
+    "diretrizes_execucao": {
+      "aspect_ratio": "9:16",
+      "duracao_alvo_segundos": 0,
+      "tom_de_voz": [
+        "didático",
+        "prático",
+        "moderno"
+      ],
+      "observacoes": "dor: medo de investir desejo: começar a investir"
+    },
+    "segmentos": [
+      {
+        "nome": "Slide 1 - Capa",
+        "titulo": "5 Passos para Organizar seu Orçamento",
+        "texto_curto": "Método simples e prático",
+        "texto_na_tela": "SWIPE PARA VER →",
+        "sugestao_visual": "Design limpo com título destacado"
+      },
+      {
+        "nome": "Slide 2 - Passo 1",
+        "titulo": "1. ANOTE TUDO",
+        "texto_curto": "• Registre cada gasto\n• Use app ou caderno\n• Faça por 1 semana",
+        "texto_na_tela": "PASSO 1",
+        "sugestao_visual": "Ícone de anotação + bullets"
+      },
+      {
+        "nome": "Slide 3 - Passo 2",
+        "titulo": "2. CATEGORIZE",
+        "texto_curto": "• Alimentação\n• Transporte\n• Lazer\n• Contas fixas",
+        "texto_na_tela": "PASSO 2",
+        "sugestao_visual": "Ícones de categorias"
+      }
+    ],
+    "meta_publicacao": {
+      "legenda": "💰 5 erros que impedem você de investir\n\nSalve este post e siga o passo a passo!\n\n\"Venha aprender a gerir melhor o seu dinheiro! Junte-se ao nosso curso gratuito e transforme sua vida financeira agora mesmo!\"\n\n❓ Qual passo você vai começar hoje?\n\n📋 SALVE ESTE POST para não esquecer!",
+      "hashtags": [
+        "#educacaofinanceira",
+        "#orcamento",
+        "#dicas"
+      ],
+      "thumb_titulo": "Organize seu Orçamento"
+    },
+    "assets_sugeridos": [
+      "Template de carrossel limpo",
+      "Ícones para cada categoria",
+      "Paleta de cores consistente",
+      "Tipografia legível"
+    ]
+  },
+  "atualizacoes_planilha": {
+    "status": "Em roteiro",
+    "roteirizado_em": "2025-08-21",
+    "links_assets": ""
+  }
+}
